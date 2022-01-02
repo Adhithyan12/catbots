@@ -1,5 +1,5 @@
 {
-  "name": "catBot",
+  "name": "ADHIv2",
   "version": "2.0.0",
   "description": "catbot whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
   "main": "./catbots/bot.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Itsmebasil0/catbots"
+    "url": "git+https://github.com/Adhithyan12/catbots"
   },
   "keywords": [
     "WhatsApp",
