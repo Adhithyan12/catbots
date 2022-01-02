@@ -1,9 +1,9 @@
 {
-    "name": "CATBOTS",
+    "name": "ADHI2V",
     "description": "catbots - Whatsapp Bot",
     "logo": "https://i.imgur.com/HBlOhMc.png",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/Itsmebasil0/catbot",
+    "repository": "https://github.com/Adhithyan12/catbot",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
